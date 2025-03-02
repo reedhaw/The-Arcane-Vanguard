@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: dyeez-4xex6
+created: 2025-03-02T15:42:12-05:00
