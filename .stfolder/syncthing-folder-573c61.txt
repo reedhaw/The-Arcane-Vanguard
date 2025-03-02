@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: kwtmz-nuuwo
+created: 2025-03-02T18:49:04-05:00
