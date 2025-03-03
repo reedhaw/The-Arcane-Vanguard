@@ -1,0 +1,11 @@
+After days of chaos, separation, and close calls, the AV Club finally reunited at the [[Fleabag Inn]]. As Wisp recounted being shadowed by Grey Guards, the group, uneasy but determined, resolved to follow their last lead: Stone Forge. After some digging, they learned it was located in the port district and set off in search of answers.
+
+Their search led them to an unassuming bakery—a family-run operation staffed by three friendly dwarves. Tyr quickly charmed them earning their trust. While Tyr enjoyed the bakery’s warm hospitality, Sayah quietly slipped away and discovered a hidden, cultist lair beneath the bakery. Merla used Message to reach out to Sayah and discovered the layer. Descending, they discovered a darkness.  
+
+Confronting the lone cultist below, the AV Club demanded access to a heavily warded door. The cultist, unwilling to fight, handed over the key with little resistance. Beyond the door, they encountered a vicious flame skull, fiercely guarding a seemingly empty chamber save for an intricately inscribed circle etched into the floor.
+
+The battle was brutal. The flame skull unleashed its fury, dropping several members of the AV Club before they managed to destroy it. Exhausted and wounded, the group barely had a moment to recover before disaster struck. As Tyr, intrigued by the runic circle, stepped onto its surface, a flash of purple light engulfed him, and he vanished.
+
+With no time to waste, the party debated their next move. Choosing to risk the unknown, they stepped into the circle themselves. Moments later, they found themselves atop a craggy mountain, surrounded by the ruins of an ancient monastery. Despite the desolation, the statue of the god Talos stood tall and unblemished, with offerings scattered at its base.
+
+Among the offerings, Romark uncovered a small wooden box. Inside was a deck of ornately inscribed vellum cards, radiating immense magical power. As they regrouped and surveyed their surroundings, they spotted a foreboding fortress in the distance. The banners of Talos, god of storms and destruction, hung proudly from its battlements—a chilling sign of what was yet to come.

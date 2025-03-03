@@ -1,0 +1,29 @@
+The group stood at the gates of [[Waterdeep]], the City of Splendors sprawling before them, a beacon of opportunity and danger. As they made their way through the South Gate, the streets thrumming with life, Sayah felt a subtle nudge. A cloaked figure, moving with practiced haste, bumped into her and slipped something into her hand. The gesture was fleeting, but the note it left behind spoke volumes: _“2 a.m. at the usual spot. Don’t be late.”_ Sayah’s eyes narrowed as recognition flashed through her mind. She knew exactly who had sent it.
+
+While Sayah mulled over her secret rendezvous, Romark took a different approach. Heading towards a cluster of the Grey Guards, [[Waterdeep]]’s stalwart defenders, he inquired about the city’s libraries. The guards, friendly enough after a few gold coins exchanged hands, informed him that most libraries were restricted to the universities and academies. However, one stood open to the public—the **Tower of Arcanum**, further north. Just as Romark turned to leave, a guard’s offhand comment caught his attention: _“If I were you, I’d steer clear of Copper Street tonight.”_
+
+Romark, ever curious, tucked the thought away and followed Sayah towards the Tower of Arcanum. The library was vast and majestic, with shelves that soared towards the ceiling, crammed with ancient tomes and scrolls. At its heart sat an elderly elf behind a circular desk, diligently transcribing an arcane text. He barely acknowledged their presence but pointed to various sections when asked. Romark and Sayah immersed themselves in [[Waterdeep]]’s history and the storied past of the [[Netheril]], their minds sharpening with each new discovery.
+
+Merla, not one to stay idle, approached the elf with questions of her own. She asked about the Phaerimm, but the elf's response was disappointing. "Confiscated by the Empire," he said, not looking up from his work. "Some 173 years ago if my memory serves me right." With that lead lost, Merla, Tyr, and Wisp decided to investigate the peculiar warning about Copper Street.
+
+They wandered the cobblestone alleys, dimly lit by the flickering light of distant lamps. Copper Street, however, was odd. They then realized why - no city guards patrolled the street, which seemed odd, until they spotted a huddle of Grey Guards on a nearby side street. They loitered, uninterested in anything beyond their small group, turning a blind eye to whatever was unfolding.
+
+Suspicion gnawed at Merla’s mind. Using her psychic powers, she probed the thoughts of one guard and unearthed the truth: they had been _paid_ to stay away from Copper Street. Wisp, taking a more direct approach, confronted the guards but received nothing more than thinly veiled dismissals. The group moved on to a nearby tavern, hoping for better luck. Inside, they found a drow elf bartender with little time for their questions. Merla’s mind-reading skills, however, once again proved invaluable, as she pulled out another fragment of information. The guards had been bribed—someone powerful was making sure Copper Street remained off-limits.
+
+Meanwhile, Sayah had slipped away from the group at the Tower of Arcanum, her mind set on the note. Disappearing into the labyrinth of [[Waterdeep]]’s streets, she made her way to the appointed meeting place. There, she was reunited with Ivy, a fellow drow and trusted friend from the guild. Ivy’s face was grim. "Sayah," she whispered urgently, "the guild has orders to find you... and kill you. Uda sent agents beyond the city already."
+
+The weight of the words hung between them, but Ivy’s warnings didn’t stop there. "Uda’s paid off the Grey Guard to stay off Copper Street tonight. Something’s happening at 3 a.m. You need to be careful."
+
+Sayah’s heart raced, but she kept her composure. Without hesitation, she left to find the others. She tracked down Merla, Tyr, and Wisp, catching them up on the danger brewing around Copper Street. Together, they headed to a seedy inn, where Romark had been laying low, and shared what they had learned. With their information pooled, the group made a quick decision. Sayah knew of an old warehouse nearby, rumored to be a front for the thieves' guild, and if Uda was involved in whatever was happening tonight, it would be there.
+
+The warehouse stood at the end of Copper Street, abandoned on the surface but alive with hidden danger. Inside, the air was thick with tension. From the shadows, a slim figure stepped forward—Vexacion Nox, Uda’s brutal enforcer. The half-orc sneered, her eyes filled with malice. "Finally, Sayah," she growled. "I’ve been waiting for the chance to gut you."
+
+Beside Nox stood four strangers, their robes marking them as cultists of Talos, the god of chaos and storms. Sayah’s blood ran cold. She didn’t recognize the cultists, but their presence confirmed her worst fears: the guild and the cult were working together.
+
+The battle erupted in a storm of blades and magic. Nox, wielding her immense strength, charged at the group, while the cultists called upon chaotic magic to rain down upon their enemies. Romark and Merla’s spells clashed with the cultists’ dark magic, while Sayah, Tyr, and Wisp darted through the melee, striking with precision. It was a hard-fought skirmish, but the party eventually overcame their foes, standing victorious amidst the wreckage.
+
+As the dust settled, Sayah moved to a hidden panel beneath a stack of crates, her fingers working the familiar mechanism. With a soft click, the hidden entrance to the thieves’ guild opened, revealing a dark staircase descending into [[Waterdeep]]’s underbelly.
+
+The party, bloodied but determined, exchanged glances. Whatever awaited them below, it was clear they were descending deeper into a web of secrets, corruption, and chaos that stretched far beyond [[Waterdeep]]’s walls.
+
+With one last look at the warehouse, they descended into the unknown, the weight of their next steps heavy on their shoulders.
