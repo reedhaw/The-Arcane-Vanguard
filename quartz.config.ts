@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
-    pageTitleSuffix: "",
+    pageTitle: "⚔️ Arcane Vanguard",
+    pageTitleSuffix: " - A Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "arcanevanguard.ca",
+    ignorePatterns: ["private", "templates/folder", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
