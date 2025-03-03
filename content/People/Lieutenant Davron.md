@@ -1,3 +1,3 @@
-Davron is a **high-ranking lieutenant** serving under **General S.C.A.R.A.** within the **Netherese Empire.** Though little is known about her **background or motivations,** he appears to be a **trusted officer** responsible for carrying out the General’s orders and relaying communications on his behalf.
+Davron is a **high-ranking lieutenant** serving under **General S.C.A.R.A.** within the **[[Netheril]].** Though little is known about her **background or motivations,** he appears to be a **trusted officer** responsible for carrying out the General’s orders and relaying communications on his behalf.
 
 Her demeanor, as observed through limited interactions, is friendly, and slightly unprofessional. Unlike her superior, she does not appear to engage in direct manipulation or mind-reading but instead operates as a **messenger and enforcer** within the Netherese hierarchy.
