@@ -5,25 +5,11 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'reedhaw/The-Arcane-Vanguard',
-        // from data-repo-id
-        repoId: 'R_kgDOOCD2KA',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOOCD2KM4CnhzG',
-      }
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Roll20: "https://roll20.com",
+      "Currency Converter": "https://dndcoincalc.web.app/",
     },
   }),
 }
