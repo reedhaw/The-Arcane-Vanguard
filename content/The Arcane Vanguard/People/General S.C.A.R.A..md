@@ -1,1 +1,1 @@
-The automaton General S.C.A.R.A., bold intimidating and intelligent. Their name stands for Strategic Command and Reconaissance Automaton, their job is to run a faction of the Netherese army. 
+The automaton General S.C.A.R.A., bold intimidating and intelligent. Their name stands for Strategic Command and Reconnaissance Automaton, their job is to run a faction of the [[Netheril|Netherese Empire]]. 
