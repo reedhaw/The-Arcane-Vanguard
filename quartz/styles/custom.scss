@@ -1,3 +1,98 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Dark Mode Color Palette
+$dark-bg: #1e1e1e; // Dark background
+$dark-gray: #d1d1d1; // Light gray text
+$secondary: #ff6f61; // Accent color
+$highlight: #3e3e3e; // Highlighted text
+$border-color: #444; // Border color
+
+// Root Variables
+:root {
+  --light-bg: #ffffff;
+  --dark-bg: #1e1e1e;
+  --light-gray: #f5f5f5;
+  --dark-gray: #d1d1d1;
+  --secondary: #ff6f61;
+  --highlight: #3e3e3e;
+  --border-color: #444;
+}
+
+// Dark Mode Styles
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--dark-bg);
+    color: var(--dark-gray);
+  }
+
+  a {
+    color: var(--secondary);
+  }
+
+  .text-highlight {
+    background-color: var(--highlight);
+    color: var(--dark-gray);
+  }
+
+  blockquote {
+    border-left: 3px solid var(--secondary);
+    background-color: var(--dark-bg);
+    color: var(--dark-gray);
+  }
+
+  pre {
+    background-color: var(--highlight);
+    color: var(--dark-gray);
+    border: 1px solid var(--border-color);
+  }
+
+  code {
+    background-color: var(--highlight);
+    color: var(--dark-gray);
+  }
+
+  th, td {
+    border-color: var(--border-color);
+  }
+}
+
+// Accessibility Enhancements
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:focus, a:hover {
+  outline: 2px solid var(--secondary);
+  color: var(--secondary);
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+input:focus, textarea:focus {
+  outline: 2px solid var(--secondary);
+}
+
+[role="navigation"] {
+  background-color: var(--dark-bg);
+  color: var(--dark-gray);
+}
+
+[role="navigation"] a {
+  color: var(--dark-gray);
+}
+
+[role="navigation"] a:focus, [role="navigation"] a:hover {
+  color: var(--secondary);
+}
