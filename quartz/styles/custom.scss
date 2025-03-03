@@ -1,3 +1,162 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// Base Colors
+$primary-bg-color: #f4f1e1; // Off-white background
+$secondary-bg-color: #2a2a2a; // Dark text background
+$accent-color: #d4af37; // Gold accents
+$text-color: #333333; // Dark text
+$link-color: $accent-color;
+$header-bg-color: #1a1a1a; // Dark header background
+$header-text-color: #ffffff;
+
+// Global Styles
+body {
+  background-color: $primary-bg-color;
+  color: $text-color;
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Header Styles
+header {
+  background-color: $header-bg-color;
+  color: $header-text-color;
+  padding: 20px;
+  text-align: center;
+  h1 {
+    font-size: 2.5rem;
+    margin: 0;
+  }
+}
+
+// Navigation Styles
+nav {
+  background-color: $secondary-bg-color;
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    li {
+      margin: 0 15px;
+      a {
+        color: $header-text-color;
+        font-size: 1.2rem;
+        padding: 10px;
+        display: block;
+        &:hover {
+          background-color: $accent-color;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+
+// Main Content Styles
+main {
+  padding: 20px;
+  .page {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    h2 {
+      font-size: 2rem;
+      margin-top: 0;
+      color: $secondary-bg-color;
+    }
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+// Sidebar Styles
+.sidebar {
+  background-color: $secondary-bg-color;
+  color: $header-text-color;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  ul {
+    list-style: none;
+    padding: 0;
+    li {
+      margin-bottom: 10px;
+      a {
+        color: $header-text-color;
+        font-size: 1.1rem;
+        &:hover {
+          color: $accent-color;
+        }
+      }
+    }
+  }
+}
+
+// Footer Styles
+footer {
+  background-color: $header-bg-color;
+  color: $header-text-color;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  font-size: 0.9rem;
+}
+
+// Code Block Styles
+pre {
+  background-color: #2a2a2a;
+  color: #f4f1e1;
+  padding: 15px;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 1rem;
+}
+
+// Table Styles
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  th, td {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background-color: $secondary-bg-color;
+    color: $header-text-color;
+  }
+}
+
+// Blockquote Styles
+blockquote {
+  border-left: 4px solid $accent-color;
+  padding-left: 15px;
+  margin: 20px 0;
+  font-style: italic;
+  color: #555555;
+}
+
+// Accessibility Enhancements
+a:focus, button:focus {
+  outline: 3px solid $accent-color;
+  outline-offset: 2px;
+}
