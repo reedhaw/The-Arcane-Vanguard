@@ -3,7 +3,7 @@ CoinsCopper:
 CoinsSiler: 
 CoinsElectrum: 
 CoinsGold: 
-CoinsPlatinum: 
+CoinsPlatinum: 100
 PartySize: 5
 ---
 
