@@ -1,6 +1,6 @@
 **Race:** Elf    
-**Affiliation:** Waterdeep High Council
-**Status:** Active
+**Affiliation:** Waterdeep High Council  
+**Status:** Active  
 
 ---
 ## Overview

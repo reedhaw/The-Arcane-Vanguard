@@ -1,8 +1,8 @@
-**Title:** Unknown 
+**Title:** Unknown  
 **Race:** Human  
-**Class:** Fighter
-**Affiliation:** Arcane Vanguard
-**Status:** Active
+**Class:** Fighter  
+**Affiliation:** Arcane Vanguard  
+**Status:** Active  
 
 ---
 ## Overview

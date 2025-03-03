@@ -1,7 +1,7 @@
-**Race:** Unknown  
-**Class:** Unknown
-**Affiliation:** Church of Lathander
-**Status:** Unkown
+**Race:** Unknown   
+**Class:** Unknown  
+**Affiliation:** Church of Lathander  
+**Status:** Unkown  
 
 ---
 ## Overview

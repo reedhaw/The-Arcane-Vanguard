@@ -1,7 +1,7 @@
 **Race:** Human  
-**Class:** Unknown
-**Affiliation:** Netherese Empire
-**Status:** Active
+**Class:** Unknown  
+**Affiliation:** Netherese Empire  
+**Status:** Active  
 
 ---
 ## Overview

@@ -1,6 +1,6 @@
-**Title:** Strategic Combat and Reconnaissance Automaton
-**Affiliation:** Netherese Empire
-**Status:** Active
+**Title:** Strategic Combat and Reconnaissance Automaton  
+**Affiliation:** Netherese Empire  
+**Status:** Active  
 
 ---
 ## Overview

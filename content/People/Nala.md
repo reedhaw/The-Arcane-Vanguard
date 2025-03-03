@@ -1,7 +1,7 @@
-**Race:** Dragonborn  
-**Class:** Bard  
-**Affiliation:** Independent/Arcane Vanguard (Formerly) 
-**Status:** Active
+**Race:** Dragonborn   
+**Class:** Bard   
+**Affiliation:** Independent/Arcane Vanguard (Formerly)  
+**Status:** Active  
 
 ---
 ## Overview
