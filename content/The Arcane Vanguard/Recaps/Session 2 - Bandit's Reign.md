@@ -1,0 +1,13 @@
+The party awoke on the bluff that once served as their prison, having made camp after a grueling battle with their captors. Throughout the night, Wisp pieced together their location and realized they were near [[Secomber]], a small village along the Delimbyr River, about six days from Waterdeep.  
+
+As they followed the path away from camp, the party encountered a group of warriors who had fled from them during the previous encounter. Now regrouped, these warriors sought revenge for the defeat of their chief. However, Romark’s swift persuasion and Tyr’s strong intimidation convinced the bandits to abandon their attack, allowing the party to continue their journey unchallenged. Despite Wisp’s efforts to lay false trails, the party remained under pursuit.
+
+After several hours of travel through the woods, the party arrived in [[Secomber]]. The village, mostly constructed from timber and relatively new, carried an atmosphere of fear, anger, and oppression. To the north, a small, seemingly abandoned watchtower bore the pendant of the [[Netheril|Netherese Empire]], a vast and ancient power that dominated [[Faerûn]]. 
+
+In the heart of the town, the party reached the main square, which housed a converted Town Hall, a market, and the Twilight Tavern. Inside the tavern, they spoke with a young barmaid, around 19 years old with black hair tied back, who was busy serving the lunch rush. From her, they learned that the Empire was at war, leaving resources, food, and supplies scarce.
+
+The party also met Nala, a young Dragonborn bard with smooth blue scales and silver horns. Nala immediately caused a commotion by spitting on a table and provoking a fight with four men in the corner. These men were part of the oppressive force that had taken over the town, stealing and pillaging at will. They were the same bandits who had previously captured the party in the forest.
+
+With Nala’s assistance, the party defeated the bandits. Impressed, the tavern’s owner, Edgar, offered them free lodging and food if they agreed to help rid the town of the remaining bandits. Spurred on by Nala, the party ventured back into the forest, tracking the four bandits who had been following them. The bandits had set up a hasty ambush, hiding behind wood piles.
+
+In the ensuing battle, only Merla, Tyr, and Romark fought. During the skirmish, Merla momentarily lost control of the Weave, causing her magic to falter briefly. Both Wisp and Romark sensed this lapse, but the magic quickly returned. The party defeated the ambushers and returned to town, where they found Wisp with a large pile of fish he had gathered while they were away.

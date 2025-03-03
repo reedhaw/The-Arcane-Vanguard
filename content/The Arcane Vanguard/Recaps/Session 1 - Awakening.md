@@ -1,0 +1,11 @@
+Merla, Tyr and Wisp awaken, bound on a bluff overlooking forests towards the Sea of Swords. In the distance, they can see the silhouette of the great city of [[Waterdeep]], and further in the distance one of [[Faerûn]]'s great floating cities. The nearby guards look excitedly towards the floating city, talking and pointing before one rushes down the path. It's unclear how - or why - this particular group of strangers were captured and bound here in this way.  
+  
+In the process of freeing themselves, a sudden flash of light blue arcane energy appears, crackling with a darker light, leaving Romark, severely injured and clutching a burning hot silver amulet, which leaves a scar in the shape of three lightning bolts radiating out from a central point - the icon of Talos.  
+  
+Upon freeing themselves and defeating their guard, the unlikely group of strangers progress down the path and discover a small, unorganized camp in the woods. Tyr and Romark return to the bluff to take a short rest, while Merla and Wisp try and do some scouting. Things go south when a Wild Magic surge of necrotic energy emanates from Merla, injuring Wisp and a nearby warrior, alerting them to their presence.  
+  
+Hearing the disturbance, Tyr and Romark hurry back down the path to discover their acquaintances surrounded by warriors. Romark tries to talk down the leader, a towering woman named Chief Greatbane, but negotiations fail and a fight breaks out. It's a close battle, with several party members falling before they finally rout the camp.  
+  
+Romark searches for his glowing amulet, which he dropped when he first teleported to the bluff and was eventually passed to Tyr who had tied it to his great axe. Tensions rise as Tyr refuses to return it, eventually leading to blows. Tyr swings his axe towards Romark, only for the amulet to interfere and stop the blow centimetres from Romark. It's clear something wants Romark to live, but you're unsure to what end this amulet's powers extend.  
+  
+Tyr relents and sees Romark's determination, and recognizes a ferocity there. They share an ale by the fire and a fish caught in the nearby stream by Wisp, and everyone shares some details on who they are before the party packs up and heads back to the bluff for a mostly uneventful night.
