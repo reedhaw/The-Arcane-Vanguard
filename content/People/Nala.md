@@ -4,7 +4,7 @@
 **Status:** Active
 
 ---
-## **Overview**
+## Overview
 Nala is a young, charismatic and outgoing bard of draconic origins. First found in the [[Twilight Tavern]] in [[Secomber]], she quickly eyes up the party and introduces them into a fight - and threw the AV Club into a mission to liberate the small town.
 
 With her help, the party eventually overthrew the bandits, who had mysterious ties to the Cult in [[Waterdeep]]. Joining them, Nala departs with the party and heads towards [[Daggerford]] and eventually [[Waterdeep]]. 

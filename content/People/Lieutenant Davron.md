@@ -1,6 +1,6 @@
 **Race:** Human  
 **Class:** Unknown
-**Affiliation:** [[Netheril]]
+**Affiliation:** Netherese Empire
 **Status:** Active
 
 ---
